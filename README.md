@@ -1,4 +1,4 @@
- # 1 [Coursera](data\Coursera.csv)
+ # 1 [Coursera](data/Coursera.csv)
 ## Descriptions
 - Course Name: Tên khoá học
 - University: Tên trường đại học giảng dạy
